@@ -222,7 +222,7 @@ function App() {
           <span>Refund policy</span>
           <span>Terms of service</span>
         </div>
-
+<a>Akhila</a>
         <a>utsav</a>
         <a>nithin</a>
       </footer>
