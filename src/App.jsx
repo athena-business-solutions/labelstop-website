@@ -223,6 +223,7 @@ function App() {
           <span>Terms of service</span>
         </div>
 
+        <a>utsav</a>
         <a>nithin</a>
       </footer>
     </div>
