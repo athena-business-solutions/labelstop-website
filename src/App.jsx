@@ -222,9 +222,6 @@ function App() {
           <span>Refund policy</span>
           <span>Terms of service</span>
         </div>
-
-
-        <a>utsav</a>
       </footer>
     </div>
   )
